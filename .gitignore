@@ -1,0 +1,6 @@
+.env
+seg_cache.json
+*.csv
+*.xlsx
+__pycache__/
+.pytest_cache/
