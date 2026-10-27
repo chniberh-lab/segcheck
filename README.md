@@ -33,7 +33,7 @@ Every lead gets one action:
 ## Install
 
 ```bash
-git clone https://github.com/<your-account>/segcheck
+git clone https://github.com/chniberh-lab/segcheck
 cd segcheck
 pip install -r requirements.txt
 ```
